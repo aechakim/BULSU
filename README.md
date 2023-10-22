@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-<title>BULSU</title>
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -140,10 +138,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
       bago mag start yung game eh kasi manok kayo nung 2 kong kaibigan kaya yun.Tas si MIGUEL na notice ko din siya that night.Wala akong masabi masyado kasi isa lang sasabihin ko na ang gagaling niyong lahat........
       SANA MAKITA KO KAYO AT MAPANOOD ULE GUYS...
 
-    </p>
-    <hr>
-
-    <a href="bulsuphotos.html"i class="fa fa-photo w3-margin-right"></i>Dump Photos
+    
       
      
 
