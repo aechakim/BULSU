@@ -7,12 +7,6 @@
 
 
 
-
-<style>
-  body{
-    height:50vh;
-    text-align: left;
-  }
 </style>
 <h1 id=dateTime>clock</h1>
 <script>
@@ -123,9 +117,6 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
 
         
 
-    </div>
-  </div>
-  <div class="w3-container w3-padding-large" style="margin-bottom:32px">
     <h4><b>About </b></h4>
     <p>Ginawa ko itong code na to  as an diary,gusto ko lang ilagay dito yung mga taong nakilala ko noong October 02 2023.
       Unexpected talaga na makilala ko kayo that night kasi,pumunta lang kami ng school nun para bumuli ng shawarma at milktea kasi hindi kami nag lunch
