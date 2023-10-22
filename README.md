@@ -1,32 +1,6 @@
-
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+BULSU
 
 
-
-</style>
-<h1 id=dateTime>clock</h1>
-<script>
-  options = {
-    year: 'numeric', month: 'long', day: 'numeric',
-    hour: 'numeric', minute: 'numeric', second: 'numeric'
-  };
-  const clock = () => dateTime.innerText=new Intl.DateTimeFormat('en-EN', options).format(new Date())
-  clock()
-  setInterval(clock, 1000);
-</script>
-
-
-
-<style>
-body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
-</style>
-<body class="w3-light-grey w3-content" style="max-width:1600px">
-
- 
   
 <!-- Sidebar/menu -->
 <nav class="w3-sidebar w3-collapse w3-white w3-animate-left" style="z-index:3;width:300px;" id="mySidebar"><br>
@@ -43,8 +17,6 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
     <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-user fa-fw w3-margin-right"></i>ABOUT</a> 
     <a href="#dump photos" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-photo w3-margin-right"></i>DUMP PHOTOS</a>
     
-  </div>
-</nav>
 
 
 <div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
@@ -59,8 +31,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
     <h1><b>MY NSCUAA MEMORIES</b></h1>
     <div class="w3-section w3-bottombar w3-padding-16">
       
-    </div>
-    </div>
+
   </header>
   
   
@@ -117,6 +88,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
 
         
 
+  <div class="w3-container w3-padding-large" style="margin-bottom:32px">
     <h4><b>About </b></h4>
     <p>Ginawa ko itong code na to  as an diary,gusto ko lang ilagay dito yung mga taong nakilala ko noong October 02 2023.
       Unexpected talaga na makilala ko kayo that night kasi,pumunta lang kami ng school nun para bumuli ng shawarma at milktea kasi hindi kami nag lunch
@@ -129,10 +101,9 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
       bago mag start yung game eh kasi manok kayo nung 2 kong kaibigan kaya yun.Tas si MIGUEL na notice ko din siya that night.Wala akong masabi masyado kasi isa lang sasabihin ko na ang gagaling niyong lahat........
       SANA MAKITA KO KAYO AT MAPANOOD ULE GUYS...
 
-    
-      
-     
-
-
+  </div>
+    </div>
+  </header>
+<a href="bulsuphotos.html"i class="fa fa-photo w3-margin-right"></i>Dump Photos
   
        
