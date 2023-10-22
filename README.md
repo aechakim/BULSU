@@ -1,10 +1,9 @@
 <html>
-<title>BULSU</title>
-<meta charset="UTF-8">
+arset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="sshttps://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.c">
 
 
 
@@ -48,7 +47,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
   <div class="w3-bar-block">
     <a href="#portfolio" onclick="w3_close()" class="w3-bar-item w3-button w3-padding w3-text-teal"><i class="fa fa-th-large fa-fw w3-margin-right"></i>PORTFOLIO</a> 
     <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-user fa-fw w3-margin-right"></i>ABOUT</a> 
-    <a href="#dump photos" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-photo w3-margin-right"></i>DUMP PHOTOS</a>
+    <a href="bulsuphotos.html" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-photo w3-margin-right"></i>DUMP PHOTOS</a>
     
   </div>
 </nav>
@@ -123,11 +122,11 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
           <p><b>Andrei Miguel</b></p>
 
         
-
+div class="w3-container w3-padding-large" style="margin-bottom:32px">
+   
     </div>
   </div>
-  <div class="w3-container w3-padding-large" style="margin-bottom:32px">
-    <h4><b>About </b></h4>
+  < <h4><b>About </b></h4>
     <p>Ginawa ko itong code na to  as an diary,gusto ko lang ilagay dito yung mga taong nakilala ko noong October 02 2023.
       Unexpected talaga na makilala ko kayo that night kasi,pumunta lang kami ng school nun para bumuli ng shawarma at milktea kasi hindi kami nag lunch
       tapos napag desisyonan namin pumunta ng court that time.So yun nadatnan namin may nag lalaro na ng Volleybal kaya nanood na kami.Then yun pinag pustahan naming mag kakaibigan
@@ -137,12 +136,8 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
       (manok means pambato)as in hanggang matapos yung game ikaw pinapanood ko,wala akong masabi kundi ang galing mo habulin yung Bola THE BEST LIBERO.Si GILBERT naman na notice ko din siya
       kasi ang cute niya hehehe tas ang galing niya din humabol ng bola,same kayo ni maizo ang liliksi niyo.Si IAN ang galing niya mag Spike tas ang cute niya din.Si ICASIANO AT QUIROZ na notice ko na sila 
       bago mag start yung game eh kasi manok kayo nung 2 kong kaibigan kaya yun.Tas si MIGUEL na notice ko din siya that night.Wala akong masabi masyado kasi isa lang sasabihin ko na ang gagaling niyong lahat........
-      SANA MAKITA KO KAYO AT MAPANOOD ULE GUYS...
-
-    
-
-    <a href="bulsuphotos.html"i class="fa fa-photo w3-margin-right"></i>Dump Photos
-      
+      SANA MAKITA KO KAYO AT MAPANOOD ULE SOON GUYS...
+          
      
 
 
